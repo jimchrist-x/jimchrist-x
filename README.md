@@ -1,6 +1,6 @@
 # Jim Christodoulou
 
-Software developer based in Greece. I mostly write **Java** and **C**, with Python for scripting and JavaScript when the browser is the platform.
+Software developer based in Greece. I mostly write **Java** and **C**, with Python for scripting.
 
 ## Selected work
 
@@ -19,4 +19,5 @@ Java · C · C++ · Python · JavaScript — Maven, Gradle, Git, Docker, Linux.
 
 ## Contact
 
-Issues and pull requests on any of the repos above are the best way to reach me.
+- **Email:** [jimchrist2@gmail.com](mailto:jimchrist2@gmail.com)
+- **Discord:** `jimchrist.x`
